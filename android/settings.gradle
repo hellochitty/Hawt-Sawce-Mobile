@@ -1,0 +1,3 @@
+rootProject.name = 'HawtSawceMobile'
+
+include ':app'
